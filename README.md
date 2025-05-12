@@ -1,6 +1,19 @@
-### As a diligent and forward-thinking individual, I've embarked on a journey that intertwines technology, innovation, and social impact. 
-### From spearheading machine learning projects at the Ministry of Communications and Information Technology to organizing impactful university exploration events at The IG Club, my career is a testament to my passion for leveraging technology for positive change. 
-### With a strong foundation in Computer Science from top-tier institutions and a knack for project management, I excel in bridging the gap between vision and execution. 
-### Whether it's optimizing operational performance through data analysis or fostering collaborative environments through effective team leadership, I thrive on challenges that push boundaries and drive meaningful outcomes. 
+Computer Science graduate with a passion for bridging technology and real-world impact
 
-# Let's connect to explore how we can innovate and create a better tomorrow together!
+I'm a dual-degree CS graduate from both University of Minnesota (4.0 GPA) and Egypt University of Informatics, combining American innovation with global perspectives. Currently making waves at BSE Global (Brooklyn Nets/Barclays Center) as a Digital Fellow, where I get to merge my love for sports, technology, and data.
+
+My journey spans multiple domains - from developing machine learning models at Digital Egypt Investment Co. to researching word embeddings with professors at UMN's Carlson School, and even teaching AI concepts to kids aged 6-18. I thrive at the intersection of technical expertise and human connection.
+
+Recent highlights:
+- Full-ride scholarship recipient & Maximillian Lando Scholar
+- Published research on interactive wellness devices (CHI 2025)
+- Built The Arabic Pile dataset (300GB+) advancing Natural Language Processing (NLP) for Arabic
+- Led coding bootcamps and managed chatbot projects that boosted customer support by 80%
+
+I speak fluent English and Arabic, and I'm passionate about using technology to solve real business challenges - whether that's optimizing sports analytics, advancing AI research, or building products that matter.
+
+What drives me: Creating technology that brings people together, just like sports taught me growing up. From the basketball court to the data center, I believe the best solutions come from teamwork and diverse perspectives.
+
+Currently exploring opportunities in data science, AI research, or product management where I can combine technical skills with business impact. Always open to connecting with fellow tech enthusiasts, sports fans, or anyone who loves a good data story!
+
+Let's connect - I'd love to chat about sports analytics, AI innovations, or how we can use tech to build something amazing together. 🤝
