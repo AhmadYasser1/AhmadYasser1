@@ -8,7 +8,7 @@
 
 ## about me
 
-CS grad from the **University of Minnesota** (4.0 GPA) and **Egypt University of Informatics**. Right now I'm a Digital Fellow at **BSE Global** (Brooklyn Nets / Barclays Center) — I get to work with sports data every day and it's as fun as it sounds.
+CS grad from the **University of Minnesota** (4.0 GPA) and **Egypt University of Informatics**. Right now I'm a Digital Fellow at **Brooklyn Sports & Entertainment** (Brooklyn Nets / Barclays Center) — I get to work with sports data every day and it's as fun as it sounds.
 
 I've published HCI research at **CHI 2025**, built a [300GB+ Arabic NLP dataset](https://github.com/AhmadYasser1) to push Arabic language tech forward, and spent time teaching AI to kids aged 6-18. I like building things that are useful to real people, not just cool demos.
 
