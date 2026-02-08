@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=550&lines=hey%2C+i'm+ahmad+%F0%9F%91%8B;cs+grad+%C2%B7+sports+tech+%C2%B7+ai+researcher;building+things+at+Brooklyn+Sports+%26+Entertainment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=550&lines=hey%2C+i'm+ahmad+%F0%9F%91%8B;cs+grad+%C2%B7+sports+tech+%C2%B7+ai+researcher;ai+at+Brooklyn+Sports+%26+Entertainment)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmadYasser1&color=70A5FD&style=flat-square&label=visitors)
 
@@ -55,7 +55,7 @@ Fluent in English and Arabic.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmad-yasser-hassanein.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmad-yasser-hassanein.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedyhassanein)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8643-4747)
 
