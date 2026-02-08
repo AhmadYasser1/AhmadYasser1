@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=550&lines=hey%2C+i'm+ahmad+%F0%9F%91%8B;cs+grad+%C2%B7+sports+tech+%C2%B7+ai+researcher;building+things+at+BSE+Global)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=550&lines=hey%2C+i'm+ahmad+%F0%9F%91%8B;cs+grad+%C2%B7+sports+tech+%C2%B7+ai+researcher;building+things+at+Brooklyn+Sports+%26+Entertainment)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmadYasser1&color=70A5FD&style=flat-square&label=visitors)
 
@@ -29,8 +29,8 @@ Fluent in English and Arabic.
 ## github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadYasser1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadYasser1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadYasser1&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadYasser1&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
 
 <br/>
