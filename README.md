@@ -1,19 +1,62 @@
-Computer Science graduate with a passion for bridging technology and real-world impact
+<div align="center">
 
-I'm a dual-degree CS graduate from both University of Minnesota (4.0 GPA) and Egypt University of Informatics, combining American innovation with global perspectives. Currently making waves at BSE Global (Brooklyn Nets/Barclays Center) as a Digital Fellow, where I get to merge my love for sports, technology, and data.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=550&lines=hey%2C+i'm+ahmad+%F0%9F%91%8B;cs+grad+%C2%B7+sports+tech+%C2%B7+ai+researcher;building+things+at+Brooklyn+Sports+%26+Entertainment)](https://git.io/typing-svg)
 
-My journey spans multiple domains - from developing machine learning models at Digital Egypt Investment Co. to researching word embeddings with professors at UMN's Carlson School, and even teaching AI concepts to kids aged 6-18. I thrive at the intersection of technical expertise and human connection.
+![Profile Views](https://komarev.com/ghpvc/?username=AhmadYasser1&color=70A5FD&style=flat-square&label=visitors)
 
-Recent highlights:
-- Full-ride scholarship recipient & Maximillian Lando Scholar
-- Published research on interactive wellness devices (CHI 2025)
-- Built The Arabic Pile dataset (300GB+) advancing Natural Language Processing (NLP) for Arabic
-- Led coding bootcamps and managed chatbot projects that boosted customer support by 80%
+</div>
 
-I speak fluent English and Arabic, and I'm passionate about using technology to solve real business challenges - whether that's optimizing sports analytics, advancing AI research, or building products that matter.
+## about me
 
-What drives me: Creating technology that brings people together, just like sports taught me growing up. From the basketball court to the data center, I believe the best solutions come from teamwork and diverse perspectives.
+CS grad from the **University of Minnesota** (4.0 GPA) and **Egypt University of Informatics**. Right now I'm a Digital Fellow at **Brooklyn Sports & Entertainment** (Brooklyn Nets / Barclays Center) — I get to work with sports data every day and it's as fun as it sounds.
 
-Currently exploring opportunities in data science, AI research, or product management where I can combine technical skills with business impact. Always open to connecting with fellow tech enthusiasts, sports fans, or anyone who loves a good data story!
+I've published HCI research at **CHI 2025**, built a [300GB+ Arabic NLP dataset](https://github.com/AhmadYasser1) to push Arabic language tech forward, and spent time teaching AI to kids aged 6-18. I like building things that are useful to real people, not just cool demos.
 
-Let's connect - I'd love to chat about sports analytics, AI innovations, or how we can use tech to build something amazing together. 🤝
+Fluent in English and Arabic.
+
+---
+
+## tools & languages
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,cpp,react,nextjs,tensorflow,pytorch,docker,git,linux&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## github stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadYasser1&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadYasser1&theme=tokyonight" height="180" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadYasser1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## contributions
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadYasser1&theme=tokyo-night&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+## let's connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmad-yasser-hassanein.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedyhassanein)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8643-4747)
+
+</div>
