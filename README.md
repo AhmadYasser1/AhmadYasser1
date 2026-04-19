@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=550&lines=hey%2C+i'm+ahmad+%F0%9F%91%8B;cs+grad+%C2%B7+sports+tech+%C2%B7+ai+researcher;ai+at+Brooklyn+Sports+%26+Entertainment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=550&lines=hey%2C+i'm+ahmad+%F0%9F%91%8B;cs+grad+%C2%B7+edtech+%C2%B7+ai+researcher;chief+of+staff+at+QuantHub)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmadYasser1&color=70A5FD&style=flat-square&label=visitors)
 
